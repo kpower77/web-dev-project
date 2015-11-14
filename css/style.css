@@ -1,7 +1,13 @@
 .bgimage{
-    background-image: url('../images/beach.jpg');
+    background-image: url('../images/computechlogo.jpg');
     background-position: center center;
     background-size: cover;
-    height: 200px;
+    width: 865px;
+    height: 150px;
 }
+
+body{
+    background-color: #000000;
+    
+
 
