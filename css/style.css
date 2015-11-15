@@ -6,8 +6,10 @@
     height: 150px;
 }
 
-body{
+body {
     background-color: #000000;
     
-
+p {
+    color: #FFFFFF;
+}
 
